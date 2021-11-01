@@ -7,16 +7,11 @@ const router = require('express').Router();
  router.get('/', (req, res) => {
     res.sendFile(path.join(__dirname, '../../public/index.html'));
   });
-  //to create a route to serve animals.html
- router.get('/animals', (req, res) => {
-    res.sendFile(path.join(__dirname, '../../public/animals.html'));
+  //to create a route to serve notes.html
+ router.get('/notes', (req, res) => {
+    res.sendFile(path.join(__dirname, '../../public/notes.html'));
   });
-  //to create a route to serve zookeepers.html
- router.get('/zookeepers', (req, res) => {
-    res.sendFile(path.join(__dirname, '../../public/zookeepers.html'));
-  });
- //to create a wildcard route to serve when there's no route that matches
- //the * route should always come last.
+  //default path when no url route matches
  router.get('*', (req, res) => {
     res.sendFile(path.join(__dirname, '../../public/index.html'));
   });
