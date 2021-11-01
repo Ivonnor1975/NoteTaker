@@ -14,7 +14,7 @@
   * [Question](#questions)
   
   ## Installation
-  This application uses node.js and inquirer modules
+  This application uses node.js and express modules
   
   To install necessary dependecies, run the following commands: 
   1. Clone repository to local computer
