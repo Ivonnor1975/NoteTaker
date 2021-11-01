@@ -24,12 +24,16 @@
   5. npm start 
   
   ## Usage
+  Acces webpage 
   
-  Answer all questions, then look for the ReadMe.md file on dist folder
+  ![image](https://user-images.githubusercontent.com/88918693/139754385-2181abc7-83c4-4120-bd95-e84cc2faf0d8.png)
   
-  ![image](https://user-images.githubusercontent.com/88918693/137822035-80e4a7c8-6021-497d-83be-72135395bf6f.png)
-   
-  Look the following video: https://drive.google.com/file/d/1ARzEzz1lv5rygjTWkoYzq1ykzMMJOAGZ/view?usp=sharing
+  Click on get started button
+  
+  ![image](https://user-images.githubusercontent.com/88918693/139754577-525acd13-6b2b-4315-8029-05d251a6edfb.png)
+  
+  Enter title and description and press the save button. 
+  
 
   ## License
   
@@ -39,3 +43,4 @@
             
    
   ## Contributing 
+  There is not much to do in this project
