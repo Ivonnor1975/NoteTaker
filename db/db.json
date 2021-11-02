@@ -1,12 +1,22 @@
 [
   {
-    "title": "Add to do list",
-    "text": "xxxxxx",
-    "id": "5dae38cc-0f46-4ae4-883c-96f4fa8aea3f"
+    "title": "Make Dr. X Appointment",
+    "text": "Call to make appointment for oct 10 at 2 pm",
+    "id": "fd2d4eeb-0895-4f29-8279-62d15fe7be40"
   },
   {
-    "title": "call dr",
-    "text": "jaime",
-    "id": "db02dfc9-0a4d-416e-b381-662f2bb1654e"
+    "title": "Order supplies for project Z",
+    "text": "Place an order with following Item:\n-Monitor\n-Keyboard \n-Mouse\n-Wyse Terminal",
+    "id": "a96f933a-c98d-4b46-85d7-c5d4d7ed450f"
+  },
+  {
+    "title": "Write the project report",
+    "text": "Describe every component of the project",
+    "id": "dec6a223-ef44-4b74-b59a-6875c24de4c7"
+  },
+  {
+    "title": "Publish website",
+    "text": "Send email when website is available",
+    "id": "1d3fcb6a-e79e-481c-b11e-845172c3b31c"
   }
 ]

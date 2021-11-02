@@ -32,7 +32,7 @@ router.post('/notes', (req, res) => {
         fs.writeFileSync(
         path.join(__dirname, '../../db/db.json'),
         JSON.stringify(notesarray, null, 2))
-      }
+    }
     else{
         res.status(400).send('The note is empty.');
     }
