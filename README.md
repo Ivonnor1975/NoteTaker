@@ -4,7 +4,7 @@
               
 
   ## Description
-  AS A small business owner, you are able to write and save notes in order to organize your thoughts and keep track of tasks you need to complete.
+  As a small business owner, you are able to write and save notes in order to organize your thoughts and keep track of tasks you need to complete.
   
   ## Table of Contents
 
