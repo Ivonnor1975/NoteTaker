@@ -21,6 +21,7 @@ router.delete('/notes/:id', (req, res) => {
   fs.writeFileSync(
     path.join(__dirname, '../../db/db.json'),
     JSON.stringify(notesarray, null, 2))
+    res.json(notesarray);
 });
 
 //to create a route to Post or accept data to save on server
@@ -32,6 +33,7 @@ router.post('/notes', (req, res) => {
         fs.writeFileSync(
         path.join(__dirname, '../../db/db.json'),
         JSON.stringify(notesarray, null, 2))
+        res.json(notesarray);
     }
     else{
         res.status(400).send('The note is empty.');
